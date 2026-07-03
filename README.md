@@ -73,4 +73,4 @@ Conducted as part of a supervised research internship (SRI) under faculty guidan
 
 ## Guide
 
-Supervised Research Internship — [Professor Name], [Institution]
+Summer Research Internship — Prof. Maniklal Das | DAU
